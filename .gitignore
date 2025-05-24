@@ -13,6 +13,7 @@ venv/
 
 # Data
 data/*.csv
+!data/heart_disease_uci.csv
 
 # Misc
 *.DS_Store
