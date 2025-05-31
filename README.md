@@ -1,4 +1,4 @@
-# Heart Disease ML Portfolio Project
+# Heart Disease ML Project
 
 ## Project Overview
 This project demonstrates machine learning techniques for predicting heart disease presence using the Heart Disease UCI dataset (Cleveland subset). It includes unsupervised learning (K-means clustering, PCA) and supervised learning (Random Forest Classifier), showcasing data preprocessing, feature engineering, model optimization, and visualization.
